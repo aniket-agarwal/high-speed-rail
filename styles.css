@@ -2,6 +2,14 @@ p {
     color:lightgreen
 }
 
+.special_para{
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+    color: darksalmon;
+}
 body {
     background-color: rgb(0, 0, 0);
 }
+
